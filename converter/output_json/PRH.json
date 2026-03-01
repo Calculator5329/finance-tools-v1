@@ -1,0 +1,3896 @@
+[
+  {
+    "Date":1661140800000,
+    "Close":21.9613304138,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1661227200000,
+    "Close":21.987537384,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1661313600000,
+    "Close":21.9700679779,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1661400000000,
+    "Close":22.1273078918,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1661486400000,
+    "Close":21.9962730408,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1661745600000,
+    "Close":21.9351272583,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1661832000000,
+    "Close":21.9089164734,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1661918400000,
+    "Close":21.8302955627,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1662004800000,
+    "Close":21.7342014313,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1662091200000,
+    "Close":21.8565063477,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1662436800000,
+    "Close":21.7342014313,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1662523200000,
+    "Close":21.7429428101,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1662609600000,
+    "Close":21.7691478729,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1662696000000,
+    "Close":21.8565063477,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1662955200000,
+    "Close":21.8477668762,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1663041600000,
+    "Close":21.7691478729,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1663128000000,
+    "Close":21.7866172791,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1663214400000,
+    "Close":21.7342014313,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1663300800000,
+    "Close":21.6905269623,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1663560000000,
+    "Close":21.7516746521,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1663646400000,
+    "Close":21.6992645264,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1663732800000,
+    "Close":21.7516746521,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1663819200000,
+    "Close":21.5507545471,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1663905600000,
+    "Close":21.454662323,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1664164800000,
+    "Close":21.3061618805,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1664251200000,
+    "Close":21.2799530029,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1664337600000,
+    "Close":21.5158119202,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1664424000000,
+    "Close":21.3148956299,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1664510400000,
+    "Close":21.0965061188,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1664769600000,
+    "Close":21.2799530029,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1664856000000,
+    "Close":21.5682296753,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1664942400000,
+    "Close":21.533285141,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1665028800000,
+    "Close":21.4721393585,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1665115200000,
+    "Close":21.1314487457,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1665374400000,
+    "Close":21.122713089,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1665460800000,
+    "Close":21.0528259277,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1665547200000,
+    "Close":20.9130592346,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1665633600000,
+    "Close":20.878118515,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1665720000000,
+    "Close":20.8257007599,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1665979200000,
+    "Close":20.956735611,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1666065600000,
+    "Close":20.9217967987,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1666152000000,
+    "Close":20.8344345093,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1666238400000,
+    "Close":20.6859340668,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1666324800000,
+    "Close":20.633518219,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1666584000000,
+    "Close":20.6509895325,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1666670400000,
+    "Close":20.9654693604,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1666756800000,
+    "Close":21.0266208649,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1666843200000,
+    "Close":21.00041008,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1666929600000,
+    "Close":21.0353546143,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1667188800000,
+    "Close":20.9392642975,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1667275200000,
+    "Close":20.8519096375,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1667361600000,
+    "Close":20.8257007599,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1667448000000,
+    "Close":20.6509895325,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1667534400000,
+    "Close":20.5811042786,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1667797200000,
+    "Close":20.5811042786,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1667883600000,
+    "Close":20.7907581329,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1667970000000,
+    "Close":20.6597251892,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1668056400000,
+    "Close":21.0528259277,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1668142800000,
+    "Close":21.1401882172,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1668402000000,
+    "Close":21.0690345764,
+    "Dividends":0.43,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1668488400000,
+    "Close":21.2024402618,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1668574800000,
+    "Close":21.2913780212,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1668661200000,
+    "Close":21.2913780212,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1668747600000,
+    "Close":21.3358421326,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1669006800000,
+    "Close":21.371421814,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1669093200000,
+    "Close":21.371421814,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1669179600000,
+    "Close":21.4959316254,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1669352400000,
+    "Close":21.5492897034,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1669611600000,
+    "Close":21.5492897034,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1669698000000,
+    "Close":21.3892040253,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1669784400000,
+    "Close":21.540397644,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1669870800000,
+    "Close":21.7449512482,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1669957200000,
+    "Close":21.7983112335,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1670216400000,
+    "Close":21.7360591888,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1670302800000,
+    "Close":21.7093772888,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1670389200000,
+    "Close":21.8516750336,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1670475600000,
+    "Close":21.9317188263,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1670562000000,
+    "Close":21.8783588409,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1670821200000,
+    "Close":21.7449512482,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1670907600000,
+    "Close":21.967294693,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1670994000000,
+    "Close":22.0028705597,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1671080400000,
+    "Close":21.9228248596,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1671166800000,
+    "Close":21.9495048523,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1671426000000,
+    "Close":22.029548645,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1671512400000,
+    "Close":22.029548645,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1671598800000,
+    "Close":22.056230545,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1671685200000,
+    "Close":22.0028705597,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1671771600000,
+    "Close":22.0384407043,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1672117200000,
+    "Close":22.0028705597,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1672203600000,
+    "Close":21.9939746857,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1672290000000,
+    "Close":22.056230545,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1672376400000,
+    "Close":21.540397644,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1672722000000,
+    "Close":21.6026554108,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1672808400000,
+    "Close":21.7360591888,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1672894800000,
+    "Close":21.7449512482,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1672981200000,
+    "Close":21.9317188263,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1673240400000,
+    "Close":22.011762619,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1673326800000,
+    "Close":22.0651226044,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1673413200000,
+    "Close":22.082906723,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1673499600000,
+    "Close":22.1807384491,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1673586000000,
+    "Close":22.2607860565,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1673931600000,
+    "Close":22.2785720825,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1674018000000,
+    "Close":22.3675060272,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1674104400000,
+    "Close":22.3675060272,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1674190800000,
+    "Close":22.4297580719,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1674450000000,
+    "Close":22.4475479126,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1674536400000,
+    "Close":22.5133628845,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1674622800000,
+    "Close":22.5275917053,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1674709200000,
+    "Close":22.6165313721,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1674795600000,
+    "Close":22.6076374054,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1675054800000,
+    "Close":22.6521053314,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1675141200000,
+    "Close":22.6787834167,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1675227600000,
+    "Close":22.7588291168,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1675314000000,
+    "Close":22.9011249542,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1675400400000,
+    "Close":22.6787834167,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1675659600000,
+    "Close":22.6787834167,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1675746000000,
+    "Close":22.6965713501,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1675832400000,
+    "Close":22.6876792908,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1675918800000,
+    "Close":22.7152500153,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1676005200000,
+    "Close":22.6432094574,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1676264400000,
+    "Close":22.6787834167,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1676350800000,
+    "Close":22.897195816,
+    "Dividends":0.372,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1676437200000,
+    "Close":23.1047782898,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1676523600000,
+    "Close":22.9188537598,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1676610000000,
+    "Close":22.9152431488,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1676955600000,
+    "Close":22.7076644897,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1677042000000,
+    "Close":22.6535148621,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1677128400000,
+    "Close":22.7166881561,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1677214800000,
+    "Close":22.6715641022,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1677474000000,
+    "Close":22.7618141174,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1677560400000,
+    "Close":22.7437648773,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1677646800000,
+    "Close":22.6896152496,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1677733200000,
+    "Close":22.6354618073,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1677819600000,
+    "Close":22.8249950409,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1678078800000,
+    "Close":22.5813121796,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1678165200000,
+    "Close":22.5813121796,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1678251600000,
+    "Close":22.6083869934,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1678338000000,
+    "Close":22.4820346832,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1678424400000,
+    "Close":22.432390213,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1678680000000,
+    "Close":21.7870864868,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1678766400000,
+    "Close":22.0939445496,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1678852800000,
+    "Close":21.8592853546,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1678939200000,
+    "Close":22.5091056824,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1679025600000,
+    "Close":22.2925033569,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1679284800000,
+    "Close":22.1571178436,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1679371200000,
+    "Close":22.4910564423,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1679457600000,
+    "Close":22.6264362335,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1679544000000,
+    "Close":22.5542354584,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1679630400000,
+    "Close":22.6715641022,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1679889600000,
+    "Close":22.8249950409,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1679976000000,
+    "Close":22.788892746,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1680062400000,
+    "Close":22.4820346832,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1680148800000,
+    "Close":22.5542354584,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1680235200000,
+    "Close":22.8791446686,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1680494400000,
+    "Close":22.8069438934,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1680580800000,
+    "Close":22.7979183197,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1680667200000,
+    "Close":22.7347412109,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1680753600000,
+    "Close":22.788892746,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1681099200000,
+    "Close":22.7708396912,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1681185600000,
+    "Close":22.7798652649,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1681272000000,
+    "Close":22.8881721497,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1681358400000,
+    "Close":22.9603729248,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1681444800000,
+    "Close":22.9603729248,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1681704000000,
+    "Close":22.9693984985,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1681790400000,
+    "Close":23.0145244598,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1681876800000,
+    "Close":23.0145244598,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1681963200000,
+    "Close":23.0054988861,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1682049600000,
+    "Close":23.0596523285,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1682308800000,
+    "Close":23.0145244598,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1682395200000,
+    "Close":22.9423236847,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1682481600000,
+    "Close":22.9964733124,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1682568000000,
+    "Close":23.0145244598,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1682654400000,
+    "Close":23.1047782898,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1682913600000,
+    "Close":22.9693984985,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1683000000000,
+    "Close":22.7708396912,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1683086400000,
+    "Close":22.7076644897,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1683172800000,
+    "Close":22.5813121796,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1683259200000,
+    "Close":22.7979183197,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1683518400000,
+    "Close":22.8340187073,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1683604800000,
+    "Close":22.8701171875,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1683691200000,
+    "Close":22.9423236847,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1683777600000,
+    "Close":22.8249950409,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1683864000000,
+    "Close":22.5632610321,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1684123200000,
+    "Close":22.644487381,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1684209600000,
+    "Close":22.3647022247,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1684296000000,
+    "Close":22.4820346832,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1684382400000,
+    "Close":22.5271606445,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1684468800000,
+    "Close":22.5181331635,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1684728000000,
+    "Close":22.4459323883,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1684814400000,
+    "Close":22.4730072021,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1684900800000,
+    "Close":22.4639816284,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1684987200000,
+    "Close":22.4730072021,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1685073600000,
+    "Close":22.5091056824,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1685419200000,
+    "Close":22.4369087219,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1685505600000,
+    "Close":22.6535148621,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1685592000000,
+    "Close":22.6535148621,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1685678400000,
+    "Close":22.8340187073,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1685937600000,
+    "Close":22.7979183197,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1686024000000,
+    "Close":22.7618141174,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1686110400000,
+    "Close":22.7527885437,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1686196800000,
+    "Close":22.7257175446,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1686283200000,
+    "Close":22.7031517029,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1686542400000,
+    "Close":22.599363327,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1686628800000,
+    "Close":22.7437648773,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1686715200000,
+    "Close":22.6128997803,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1686801600000,
+    "Close":22.6535148621,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1686888000000,
+    "Close":22.644487381,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1687233600000,
+    "Close":22.6986408234,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1687320000000,
+    "Close":22.6174106598,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1687406400000,
+    "Close":22.6083869934,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1687492800000,
+    "Close":22.5903396606,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1687752000000,
+    "Close":22.6083869934,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1687838400000,
+    "Close":22.5903396606,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1687924800000,
+    "Close":22.6625404358,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1688011200000,
+    "Close":22.5948467255,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1688097600000,
+    "Close":22.6715641022,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1688356800000,
+    "Close":22.7573051453,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1688529600000,
+    "Close":22.7347412109,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1688616000000,
+    "Close":22.5632610321,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1688702400000,
+    "Close":22.6805915833,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1688961600000,
+    "Close":22.6896152496,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1689048000000,
+    "Close":22.7410621643,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1689134400000,
+    "Close":22.7798652649,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1689220800000,
+    "Close":22.8159694672,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1689307200000,
+    "Close":22.7979183197,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1689566400000,
+    "Close":22.7347412109,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1689652800000,
+    "Close":22.7618141174,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1689739200000,
+    "Close":22.788892746,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1689825600000,
+    "Close":22.7618141174,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1689912000000,
+    "Close":22.8340187073,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1690171200000,
+    "Close":22.8159694672,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1690257600000,
+    "Close":22.8610954285,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1690344000000,
+    "Close":23.1499042511,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1690430400000,
+    "Close":23.1860084534,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1690516800000,
+    "Close":23.2401580811,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1690776000000,
+    "Close":23.1047782898,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1690862400000,
+    "Close":23.0686779022,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1690948800000,
+    "Close":23.0145244598,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1691035200000,
+    "Close":22.9513492584,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1691121600000,
+    "Close":22.8701171875,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1691380800000,
+    "Close":22.9423236847,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1691467200000,
+    "Close":22.8520698547,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1691553600000,
+    "Close":22.8520698547,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1691640000000,
+    "Close":22.8159694672,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1691726400000,
+    "Close":22.8159694672,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1691985600000,
+    "Close":22.9002399445,
+    "Dividends":0.372,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1692072000000,
+    "Close":22.762840271,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1692158400000,
+    "Close":22.4971961975,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1692244800000,
+    "Close":22.6071205139,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1692331200000,
+    "Close":22.6254405975,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1692590400000,
+    "Close":22.570476532,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1692676800000,
+    "Close":22.4697189331,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1692763200000,
+    "Close":22.570476532,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1692849600000,
+    "Close":22.6345977783,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1692936000000,
+    "Close":22.5979595184,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1693195200000,
+    "Close":22.6529178619,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1693281600000,
+    "Close":22.6254405975,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1693368000000,
+    "Close":22.6620788574,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1693454400000,
+    "Close":22.6345977783,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1693540800000,
+    "Close":22.6437568665,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1693886400000,
+    "Close":22.6071205139,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1693972800000,
+    "Close":22.6254405975,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1694059200000,
+    "Close":22.6254405975,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1694145600000,
+    "Close":22.6620788574,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1694404800000,
+    "Close":22.6254405975,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1694491200000,
+    "Close":22.6712398529,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1694577600000,
+    "Close":22.6437568665,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1694664000000,
+    "Close":22.7170410156,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1694750400000,
+    "Close":22.7170410156,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1695009600000,
+    "Close":22.7078781128,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1695096000000,
+    "Close":22.7170410156,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1695182400000,
+    "Close":22.7536792755,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1695268800000,
+    "Close":22.6712398529,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1695355200000,
+    "Close":22.7078781128,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1695614400000,
+    "Close":22.7536792755,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1695700800000,
+    "Close":22.6987171173,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1695787200000,
+    "Close":22.7262001038,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1695873600000,
+    "Close":22.7170410156,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1695960000000,
+    "Close":22.3781166077,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1696219200000,
+    "Close":22.0575122833,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1696305600000,
+    "Close":21.4804286957,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1696392000000,
+    "Close":21.4987468719,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1696478400000,
+    "Close":21.4804286957,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1696564800000,
+    "Close":21.3979854584,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1696824000000,
+    "Close":21.4895839691,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1696910400000,
+    "Close":21.7460689545,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1696996800000,
+    "Close":22.0483531952,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1697083200000,
+    "Close":21.8468322754,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1697169600000,
+    "Close":21.801027298,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1697428800000,
+    "Close":21.8926296234,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1697515200000,
+    "Close":21.7918701172,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1697601600000,
+    "Close":21.7918701172,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1697688000000,
+    "Close":21.7918701172,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1697774400000,
+    "Close":21.8743095398,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1698033600000,
+    "Close":22.0025501251,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1698120000000,
+    "Close":22.3506355286,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1698206400000,
+    "Close":22.1674346924,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1698292800000,
+    "Close":22.2590351105,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1698379200000,
+    "Close":22.1949138641,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1698638400000,
+    "Close":22.1949138641,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1698724800000,
+    "Close":22.0849933624,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1698811200000,
+    "Close":22.4880371094,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1698897600000,
+    "Close":22.7903194427,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1698984000000,
+    "Close":22.7170410156,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1699246800000,
+    "Close":22.7719993591,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1699333200000,
+    "Close":22.7719993591,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1699419600000,
+    "Close":22.7719993591,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1699506000000,
+    "Close":22.5613193512,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1699592400000,
+    "Close":22.7536792755,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1699851600000,
+    "Close":22.7903194427,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1699938000000,
+    "Close":23.0711555481,
+    "Dividends":0.372,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1700024400000,
+    "Close":23.1548461914,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1700110800000,
+    "Close":23.1548461914,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1700197200000,
+    "Close":23.2199401855,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1700456400000,
+    "Close":23.4152240753,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1700542800000,
+    "Close":23.3594284058,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1700629200000,
+    "Close":23.3306026459,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1700802000000,
+    "Close":23.3640785217,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1701061200000,
+    "Close":23.4152240753,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1701147600000,
+    "Close":23.4617176056,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1701234000000,
+    "Close":23.498916626,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1701320400000,
+    "Close":23.6198043823,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1701406800000,
+    "Close":23.7034950256,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1701666000000,
+    "Close":23.5640087128,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1701752400000,
+    "Close":23.5361099243,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1701838800000,
+    "Close":23.5082149506,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1701925200000,
+    "Close":23.5733089447,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1702011600000,
+    "Close":23.4803161621,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1702270800000,
+    "Close":23.5733089447,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1702357200000,
+    "Close":23.5454101562,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1702443600000,
+    "Close":23.7034950256,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1702530000000,
+    "Close":23.90807724,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1702616400000,
+    "Close":23.7871894836,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1702875600000,
+    "Close":23.7406921387,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1702962000000,
+    "Close":23.6941947937,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1703048400000,
+    "Close":23.6384010315,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1703134800000,
+    "Close":23.6570014954,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1703221200000,
+    "Close":23.7034950256,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1703566800000,
+    "Close":23.7127933502,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1703653200000,
+    "Close":23.7313919067,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1703739600000,
+    "Close":23.6849002838,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1703826000000,
+    "Close":23.6384010315,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1704171600000,
+    "Close":23.5268096924,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1704258000000,
+    "Close":23.4617176056,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1704344400000,
+    "Close":23.498916626,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1704430800000,
+    "Close":23.498916626,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1704690000000,
+    "Close":23.5733089447,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1704776400000,
+    "Close":23.5268096924,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1704862800000,
+    "Close":23.5547122955,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1704949200000,
+    "Close":23.6663017273,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1705035600000,
+    "Close":23.7685909271,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1705381200000,
+    "Close":23.7406921387,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1705467600000,
+    "Close":23.7313919067,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1705554000000,
+    "Close":23.6384010315,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1705640400000,
+    "Close":23.8150844574,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1705899600000,
+    "Close":23.9359741211,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1705986000000,
+    "Close":23.90807724,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1706072400000,
+    "Close":24.0475654602,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1706158800000,
+    "Close":24.2707443237,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1706245200000,
+    "Close":24.2242450714,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1706504400000,
+    "Close":24.2707443237,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1706590800000,
+    "Close":24.2521438599,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1706677200000,
+    "Close":24.3265380859,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1706763600000,
+    "Close":24.3358364105,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1706850000000,
+    "Close":24.0940570831,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1707109200000,
+    "Close":24.112657547,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1707195600000,
+    "Close":24.0382652283,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1707282000000,
+    "Close":24.2242450714,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1707368400000,
+    "Close":24.0754623413,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1707454800000,
+    "Close":24.1405525208,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1707714000000,
+    "Close":24.0847568512,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1707800400000,
+    "Close":23.8336830139,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1707886800000,
+    "Close":24.0714740753,
+    "Dividends":0.372,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1707973200000,
+    "Close":24.33568573,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1708059600000,
+    "Close":24.4677906036,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1708405200000,
+    "Close":24.3828659058,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1708491600000,
+    "Close":24.3451194763,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1708578000000,
+    "Close":24.3168125153,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1708664400000,
+    "Close":24.2696323395,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1708923600000,
+    "Close":24.2517032623,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1709010000000,
+    "Close":24.2130146027,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1709096400000,
+    "Close":24.2413234711,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1709182800000,
+    "Close":24.3262481689,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1709269200000,
+    "Close":24.2130146027,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1709528400000,
+    "Close":24.2130146027,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1709614800000,
+    "Close":24.2696323395,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1709701200000,
+    "Close":24.2507610321,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1709787600000,
+    "Close":24.2696323395,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1709874000000,
+    "Close":24.2790679932,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1710129600000,
+    "Close":24.2790679932,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1710216000000,
+    "Close":24.2318878174,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1710302400000,
+    "Close":24.2413234711,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1710388800000,
+    "Close":24.1280899048,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1710475200000,
+    "Close":24.2035770416,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1710734400000,
+    "Close":24.2130146027,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1710820800000,
+    "Close":24.4111747742,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1710907200000,
+    "Close":24.2224502563,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1710993600000,
+    "Close":24.2601947784,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1711080000000,
+    "Close":24.2696323395,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1711339200000,
+    "Close":24.2413234711,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1711425600000,
+    "Close":24.2696323395,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1711512000000,
+    "Close":24.2790679932,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1711598400000,
+    "Close":24.2035770416,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1711944000000,
+    "Close":24.1752719879,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1712030400000,
+    "Close":24.1092185974,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1712116800000,
+    "Close":24.2318878174,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1712203200000,
+    "Close":24.3923034668,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1712289600000,
+    "Close":24.5338439941,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1712548800000,
+    "Close":24.4206085205,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1712635200000,
+    "Close":24.4394779205,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1712721600000,
+    "Close":24.33568573,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1712808000000,
+    "Close":24.1941432953,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1712894400000,
+    "Close":24.1375255585,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1713153600000,
+    "Close":23.7412090302,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1713240000000,
+    "Close":23.8072624207,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1713326400000,
+    "Close":23.8921909332,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1713412800000,
+    "Close":23.8827514648,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1713499200000,
+    "Close":23.8544445038,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1713758400000,
+    "Close":23.8827514648,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1713844800000,
+    "Close":23.8733158112,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1713931200000,
+    "Close":23.8921909332,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1714017600000,
+    "Close":23.7883892059,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1714104000000,
+    "Close":23.665719986,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1714363200000,
+    "Close":23.8072624207,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1714449600000,
+    "Close":23.6185436249,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1714536000000,
+    "Close":23.7317752838,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1714622400000,
+    "Close":23.9771118164,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1714708800000,
+    "Close":24.1403560638,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1714968000000,
+    "Close":24.3828659058,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1715054400000,
+    "Close":24.3262481689,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1715140800000,
+    "Close":24.0337314606,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1715227200000,
+    "Close":23.9393672943,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1715313600000,
+    "Close":23.8450088501,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1715572800000,
+    "Close":23.9110603333,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1715659200000,
+    "Close":23.9895877838,
+    "Dividends":0.372,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1715745600000,
+    "Close":24.0757789612,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1715832000000,
+    "Close":24.1045093536,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1715918400000,
+    "Close":24.0853557587,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1716177600000,
+    "Close":24.0949306488,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1716264000000,
+    "Close":24.1236629486,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1716350400000,
+    "Close":24.0853557587,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1716436800000,
+    "Close":23.9129734039,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1716523200000,
+    "Close":24.1140861511,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1716868800000,
+    "Close":24.0662002563,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1716955200000,
+    "Close":24.0087394714,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1717041600000,
+    "Close":24.2098522186,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1717128000000,
+    "Close":24.2002754211,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1717387200000,
+    "Close":24.4971542358,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1717473600000,
+    "Close":24.6791095734,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1717560000000,
+    "Close":24.6886863708,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1717646400000,
+    "Close":24.7174167633,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1717732800000,
+    "Close":24.7078380585,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1717992000000,
+    "Close":24.6408023834,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1718078400000,
+    "Close":24.6599578857,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1718164800000,
+    "Close":24.8323364258,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1718251200000,
+    "Close":24.9472541809,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1718337600000,
+    "Close":24.9855632782,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1718596800000,
+    "Close":24.9376792908,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1718683200000,
+    "Close":25.014295578,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1718856000000,
+    "Close":24.9376792908,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1718942400000,
+    "Close":24.9472541809,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1719201600000,
+    "Close":25.0430240631,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1719288000000,
+    "Close":25.0047168732,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1719374400000,
+    "Close":24.9951400757,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1719460800000,
+    "Close":24.9759864807,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1719547200000,
+    "Close":24.7461452484,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1719806400000,
+    "Close":24.7844524384,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1719892800000,
+    "Close":24.8323364258,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1719979200000,
+    "Close":24.9568328857,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1720152000000,
+    "Close":25.014295578,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1720411200000,
+    "Close":24.9089508057,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1720497600000,
+    "Close":24.8993740082,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1720584000000,
+    "Close":24.8993740082,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1720670400000,
+    "Close":25.0813293457,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1720756800000,
+    "Close":25.1196365356,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1721016000000,
+    "Close":25.2920188904,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1721102400000,
+    "Close":25.2249794006,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1721188800000,
+    "Close":25.2249794006,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1721275200000,
+    "Close":25.1579437256,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1721361600000,
+    "Close":25.1004829407,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1721620800000,
+    "Close":25.0238685608,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1721707200000,
+    "Close":24.7748775482,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1721793600000,
+    "Close":24.4779987335,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1721880000000,
+    "Close":24.7078380585,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1721966400000,
+    "Close":24.7940311432,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1722225600000,
+    "Close":24.7653007507,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1722312000000,
+    "Close":24.803604126,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1722398400000,
+    "Close":24.9089508057,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1722484800000,
+    "Close":25.1770992279,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1722571200000,
+    "Close":25.2441329956,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1722830400000,
+    "Close":25.0334472656,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1722916800000,
+    "Close":25.1579437256,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1723003200000,
+    "Close":25.3207473755,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1723089600000,
+    "Close":25.3111724854,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1723176000000,
+    "Close":25.2441329956,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1723435200000,
+    "Close":25.2249794006,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1723521600000,
+    "Close":25.4739742279,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1723608000000,
+    "Close":25.7421188354,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1723694400000,
+    "Close":25.7149295807,
+    "Dividends":0.372,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1723780800000,
+    "Close":25.7440643311,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1724040000000,
+    "Close":25.7731990814,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1724126400000,
+    "Close":25.7149295807,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1724212800000,
+    "Close":25.6955070496,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1724299200000,
+    "Close":25.6275310516,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1724385600000,
+    "Close":25.782907486,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1724644800000,
+    "Close":25.6760883331,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1724731200000,
+    "Close":25.685798645,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1724817600000,
+    "Close":25.7052173615,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1724904000000,
+    "Close":25.7149295807,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1724990400000,
+    "Close":25.3459091187,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1725336000000,
+    "Close":25.3459091187,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1725422400000,
+    "Close":25.5012874603,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1725508800000,
+    "Close":25.4915752411,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1725595200000,
+    "Close":25.3750419617,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1725854400000,
+    "Close":25.4235973358,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1725940800000,
+    "Close":25.3750419617,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1726027200000,
+    "Close":25.3459091187,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1726113600000,
+    "Close":25.5109996796,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1726200000000,
+    "Close":25.7246417999,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1726459200000,
+    "Close":25.782907486,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1726545600000,
+    "Close":25.9091529846,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1726632000000,
+    "Close":25.8994407654,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1726718400000,
+    "Close":26.0062637329,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1726804800000,
+    "Close":25.9577083588,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1727064000000,
+    "Close":25.6275310516,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1727150400000,
+    "Close":25.4915752411,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1727236800000,
+    "Close":25.4624423981,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1727323200000,
+    "Close":25.404176712,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1727409600000,
+    "Close":25.4430198669,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1727668800000,
+    "Close":25.3944644928,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1727755200000,
+    "Close":25.685798645,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1727841600000,
+    "Close":25.9479961395,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1727928000000,
+    "Close":25.8314628601,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1728014400000,
+    "Close":25.7052173615,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1728273600000,
+    "Close":25.6178188324,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1728360000000,
+    "Close":25.7440643311,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1728446400000,
+    "Close":25.7731990814,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1728532800000,
+    "Close":25.7634868622,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1728619200000,
+    "Close":25.8508853912,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1728878400000,
+    "Close":25.9382858276,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1728964800000,
+    "Close":26.0062637329,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1729051200000,
+    "Close":26.0936641693,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1729137600000,
+    "Close":26.0742416382,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1729224000000,
+    "Close":25.9674167633,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1729483200000,
+    "Close":25.7926197052,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1729569600000,
+    "Close":25.870306015,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1729656000000,
+    "Close":25.5381908417,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1729742400000,
+    "Close":25.5158519745,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1729828800000,
+    "Close":25.5886859894,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1730088000000,
+    "Close":25.5886859894,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1730174400000,
+    "Close":25.3653335571,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1730260800000,
+    "Close":25.3070640564,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1730347200000,
+    "Close":25.3167762756,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1730433600000,
+    "Close":25.2585105896,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1730696400000,
+    "Close":25.2196655273,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1730782800000,
+    "Close":25.4138889313,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1730869200000,
+    "Close":25.1225566864,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1730955600000,
+    "Close":25.2585105896,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1731042000000,
+    "Close":25.4624423981,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1731301200000,
+    "Close":25.3070640564,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1731387600000,
+    "Close":25.1516876221,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1731474000000,
+    "Close":25.0642871857,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1731560400000,
+    "Close":25.2293758392,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1731646800000,
+    "Close":25.1722335815,
+    "Dividends":0.372,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1731906000000,
+    "Close":25.2707557678,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1731992400000,
+    "Close":25.0540084839,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1732078800000,
+    "Close":24.9751911163,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1732165200000,
+    "Close":25.1722335815,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1732251600000,
+    "Close":25.2214946747,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1732510800000,
+    "Close":25.4480934143,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1732597200000,
+    "Close":25.2214946747,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1732683600000,
+    "Close":25.2510509491,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1732856400000,
+    "Close":25.6352863312,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1733115600000,
+    "Close":25.4776515961,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1733202000000,
+    "Close":25.201789856,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1733288400000,
+    "Close":25.2313480377,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1733374800000,
+    "Close":25.2904605865,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1733461200000,
+    "Close":25.1722335815,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1733720400000,
+    "Close":25.093416214,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1733806800000,
+    "Close":25.0441570282,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1733893200000,
+    "Close":25.0244522095,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1733979600000,
+    "Close":24.8569660187,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1734066000000,
+    "Close":24.6796264648,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1734325200000,
+    "Close":24.8077049255,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1734411600000,
+    "Close":25.1131210327,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1734498000000,
+    "Close":24.9357814789,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1734584400000,
+    "Close":24.8766708374,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1734670800000,
+    "Close":24.8963737488,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1734930000000,
+    "Close":24.8963737488,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1735016400000,
+    "Close":24.738740921,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1735189200000,
+    "Close":24.6727294922,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1735275600000,
+    "Close":24.6894779205,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1735534800000,
+    "Close":24.8274097443,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1735621200000,
+    "Close":24.5318450928,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1735794000000,
+    "Close":24.7485923767,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1735880400000,
+    "Close":24.9653396606,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1736139600000,
+    "Close":24.8274097443,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1736226000000,
+    "Close":24.6500701904,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1736312400000,
+    "Close":24.4431743622,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1736485200000,
+    "Close":24.1870193481,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1736744400000,
+    "Close":24.0983486176,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1736830800000,
+    "Close":24.1870193481,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1736917200000,
+    "Close":24.7880001068,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1737003600000,
+    "Close":24.7880001068,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1737090000000,
+    "Close":24.7436656952,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1737435600000,
+    "Close":24.9456348419,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1737522000000,
+    "Close":24.9357814789,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1737608400000,
+    "Close":24.9357814789,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1737694800000,
+    "Close":24.9259300232,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1737954000000,
+    "Close":25.1229743958,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1738040400000,
+    "Close":25.0540084839,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1738126800000,
+    "Close":24.9160785675,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1738213200000,
+    "Close":24.8963737488,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1738299600000,
+    "Close":24.728887558,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1738558800000,
+    "Close":24.728887558,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1738645200000,
+    "Close":24.7880001068,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1738731600000,
+    "Close":25.103269577,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1738818000000,
+    "Close":25.0638618469,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1738904400000,
+    "Close":25.0047473907,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1739163600000,
+    "Close":25.0195274353,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1739250000000,
+    "Close":24.8865222931,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1739336400000,
+    "Close":24.6894779205,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1739422800000,
+    "Close":24.7880001068,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1739509200000,
+    "Close":24.8999996185,
+    "Dividends":0.372,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1739854800000,
+    "Close":24.8799991608,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1739941200000,
+    "Close":24.7299995422,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1740027600000,
+    "Close":24.75,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1740114000000,
+    "Close":24.8700008392,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1740373200000,
+    "Close":24.9500007629,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1740459600000,
+    "Close":25.125,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1740546000000,
+    "Close":25.1299991608,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1740632400000,
+    "Close":25.1399993896,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1740718800000,
+    "Close":25.1299991608,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1740978000000,
+    "Close":25.1499996185,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1741064400000,
+    "Close":25.0699996948,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1741150800000,
+    "Close":25.0699996948,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1741237200000,
+    "Close":25.0400009155,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1741323600000,
+    "Close":24.9799995422,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1741579200000,
+    "Close":25.0200004578,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1741665600000,
+    "Close":24.9899997711,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1741752000000,
+    "Close":25.0799999237,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1741838400000,
+    "Close":25.0699996948,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1741924800000,
+    "Close":25.1399993896,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1742184000000,
+    "Close":25.3299999237,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1742270400000,
+    "Close":25.2999992371,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1742356800000,
+    "Close":25.4099998474,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1742443200000,
+    "Close":25.3400001526,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1742529600000,
+    "Close":25.3400001526,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  },
+  {
+    "Date":1742788800000,
+    "Close":25.3700008392,
+    "Dividends":0.0,
+    "Stock Splits":0.0
+  }
+]

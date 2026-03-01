@@ -1,0 +1,761 @@
+{
+  "rules": {
+    "VISTAPRINT": "Online Payment",
+    "TAQUITOS": "Food",
+    "NORTHEAST PHAR": "Pharmacy",
+    "MICROSOFT": "Electronics & Software",
+    "CUB FOODS": "Groceries",
+    "CHICKFILA": "Fast Food & Convenience",
+    "KWIK TRIP": "Gas & Fuel",
+    "MCDONALDS": "Fast Food & Convenience",
+    "EBAY": "Shopping",
+    "BALDWIN PARKING": "Parking",
+    "GOOGLE FI": "Phone, Internet & Cable",
+    "SANTANDER CONSUM": "Auto Payment",
+    "CASEYS": "Fast Food & Convenience",
+    "GRAHAM PARKING": "Parking",
+    "NYTIMES": "Subscriptions",
+    "ARBYS": "Fast Food",
+    "BURGER KING": "Fast Food",
+    "MARSHALLS": "Clothing",
+    "PATREON": "Subscriptions",
+    "FITNE": "Gym",
+    "WCA COMPETITION": "Fees & Charges",
+    "GGLPAY KWIK TRIP": "Fast Food & Convenience",
+    "BREV.DEV": "Restaurants/Dining",
+    "OPENAI": "Subscriptions",
+    "SAVERS": "Groceries",
+    "GESMN": "Restaurants/Dining",
+    "GOOGLE ONE": "Software & Services",
+    "EPIC GAMES": "Online Payment",
+    "GOOGLE CLOUD": "Software & Cloud Services",
+    "NAMECHEAP": "Web Services",
+    "RAISING CANES": "Fast Food & Convenience",
+    "BALDWIN PARK": "Parking",
+    "PLANET FITNESS": "Gym",
+    "AMEX SEND": "Transfers",
+    "ANTHROPIC": "Technology Services",
+    "HYVEE": "Groceries",
+    "LILSON HEALTH": "Medical",
+    "CASH AUTO REDEMPTION": "Auto Services Income",
+    "SANTANDER": "Auto Payments",
+    "CULVERS": "Fast Food & Convenience",
+    "RAILWAY": "Subscriptions",
+    "TESLA SUPERCHARGER": "Auto Charging",
+    "GOOGLE NINJA KIWI": "Software & Services",
+    "TESLA SUBSCRIPTION": "Subscriptions",
+    "CASH REWARD REFUND": "Income - Refund",
+    "PAYPAL MICROSOFT": "Software & Digital Services",
+    "PAYPAL EBAY": "Online Shopping",
+    "ALDI": "Groceries",
+    "BERRY BLENDZ": "Fast Food",
+    "DR MARY JOHNSON": "Medical",
+    "PHONE BILL": "Phone, Internet & Cable",
+    "PLANET": "Shopping",
+    "SANTANDER BILLPAY": "Bill Payments",
+    "SNAPPYSTOP": "Fast Food",
+    "TST PASQUALES": "Restaurants",
+    "WALMART": "Shopping",
+    "ZENNI OPTICAL": "Vision Care",
+    "PAYPAL THRIFTBOOKS": "Books",
+    "FITNEROCHESTER": "Gym & Fitness",
+    "HYVEE FOODS": "Groceries",
+    "CASH REWARDREFUND": "Rewards/Refunds",
+    "COURTESY OF BALDWIN": "Restaurants/Dining",
+    "OLIVE GARDEN": "Restaurants",
+    "PAYPAL": "Online Payments",
+    "BONALASKA": "Restaurants/Dining",
+    "ALLY BANK": "Transfers",
+    "NSF FEE": "Fees & Charges",
+    "MICROSOFTSTORE": "Electronics & Software",
+    "DOLLAR TREE": "Merchandise/Misc",
+    "SONIC DRIVE IN": "Fast Food & Convenience",
+    "TRACTOR SUPPLY": "Home Improvement/Maintenance",
+    "HARDEES": "Fast Food & Convenience",
+    "PIZZA HUT": "Fast Food & Convenience",
+    "KFC": "Fast Food & Convenience",
+    "LITTLE CAESAR": "Restaurants/Dining",
+    "TEMU": "Online Shopping",
+    "MANIFOLD": "Restaurants/Dining",
+    "NEWTS": "Restaurants/Dining",
+    "STARBUCKS": "Coffee",
+    "COURTESY OF BONALASKA": "Restaurants/Dining",
+    "PAYPAL STEAM GAMES": "Electronics & Software",
+    "REFUND FEE": "Fees & Charges",
+    "FRIENDS BOOKS": "Books",
+    "KUMGO": "Fast Food",
+    "GGLPAY STORE": "Merchandise/Misc",
+    "PARKMOBILE": "Parking",
+    "MARY BRIGH PARKING": "Parking",
+    "TOPPERS PIZZA": "Restaurants/Dining",
+    "CASEYS GENL": "Convenience Stores",
+    "VENMO": "Transfers",
+    "SKY ZONE": "Entertainment",
+    "LIONS TAP": "Restaurants/Dining",
+    "SUBWAY": "Fast Food & Convenience",
+    "SANTANDER CONSUMER": "Auto Payment",
+    "FRESH THYME": "Groceries",
+    "WENDYS": "Fast Food",
+    "THRIFT BOOKS": "Books",
+    "PAYPAL FRAGRANCENE": "Online Payment",
+    "PAYPAL STEAM": "Entertainment",
+    "WM SUPERCENTER": "Shopping",
+    "GOOGLE SUPERCELL": "Subscriptions",
+    "TARGET": "Shopping",
+    "ANNUAL SBOSTON": "Restaurants/Dining",
+    "PAYPAL BURGER KING": "Fast Food",
+    "AMAZON SYF": "Shopping",
+    "PAYPAL DOORDASH": "Online Payment",
+    "GGLPAY SUBWAY": "Fast Food",
+    "GGLPAY WENDYS": "Fast Food",
+    "GGLPAY CHICKFILA": "Fast Food & Convenience",
+    "ZEFNET": "Fees",
+    "A&W": "Fast Food",
+    "GGLPAY FIVE GUYS": "Fast Food",
+    "PAYPAL TIKTOK SHOP": "Online Shopping",
+    "GGLPAY BONALASKA": "Restaurants/Dining",
+    "GOOGLE TESSIE": "Software & Digital Services",
+    "TACO BELL": "Fast Food & Convenience",
+    "CIVIC CENTER": "Fees & Charges",
+    "PASQUALES": "Restaurants/Dining",
+    "AMZN MKTP": "Shopping",
+    "DAIRY QUEEN": "Fast Food",
+    "LITTLE M": "Fast Food & Convenience",
+    "MAIL ORDERPHARMACY": "Pharmacy",
+    "TESLA SERVICE": "Auto Service",
+    "STEAM GAMES": "Electronics & Software",
+    "FITNER": "Gym",
+    "MARCUS": "Entertainment",
+    "PI WOOD FIRED PIZZA": "Restaurants/Dining",
+    "BALDWIN PHARMACY": "Pharmacy",
+    "GOOGLE": "Electronics & Software",
+    "HOLIDAY STATIONSTORE": "Gas & Fuel",
+    "DOORDASH": "Fast Food & Convenience",
+    "KUM&GO": "Fast Food & Convenience",
+    "THE DAIRY CUP": "Fast Food",
+    "DOMINOS": "Fast Food & Convenience",
+    "ZUMBROTA STORE": "Shopping - General",
+    "SPEEDWAY": "Gas & Fuel",
+    "DOLLAR GENERAL": "Shopping - Discount",
+    "DUNKIN": "Fast Food & Convenience",
+    "CASEYS GENL STORES": "Gas & Convenience",
+    "AMZN": "Shopping - Online",
+    "POPEYES": "Fast Food",
+    "CARIBOU COFFEE": "Coffee & Cafes",
+    "LANESBORO": "Restaurants/Dining",
+    "FRIENDS BOOKSTORE": "Books",
+    "AMAZON": "Shopping",
+    "REDEEM CASH BACK AT AMAZON": "Shopping",
+    "YOUR CASH REWARD": "Income - Rewards",
+    "BONALASKA WI": "Restaurants/Dining",
+    "CARIBOU MOBILE APP": "Restaurants/Dining",
+    "HOLIDAY STATI": "Gas & Fuel",
+    "GGLPAY HYVEE": "Groceries",
+    "CANTEEN VENDING": "Fast Food & Convenience",
+    "COURTESY": "Restaurants/Dining",
+    "JIUJITSU": "Health & Fitness"
+  },
+  "notes": [
+    "Online Payment: 5 transactions totaling -$164.46",
+    "Food: 30 transactions totaling -$95.45",
+    "Pharmacy: 3 transactions totaling -$108.52",
+    "Electronics & Software: 18 transactions totaling -$165.94",
+    "Groceries: 89 transactions totaling -$1373.58",
+    "Fast Food & Convenience: 431 transactions totaling -$2553.46",
+    "Gas & Fuel: 24 transactions totaling -$520.63",
+    "Shopping: 33 transactions totaling -$624.71",
+    "Parking: 15 transactions totaling -$38.30",
+    "Phone, Internet & Cable: 9 transactions totaling -$994.03",
+    "Auto Payment: 7 transactions totaling -$3306.80",
+    "Subscriptions: 20 transactions totaling -$499.18",
+    "Clothing: 3 transactions totaling -$101.94",
+    "Business: 1 transactions totaling -$2.15",
+    "Gym: 12 transactions totaling -$129.72",
+    "Fees & Charges: 5 transactions totaling -$38.00",
+    "Restaurants/Dining: 90 transactions totaling -$666.82",
+    "Personal Care: 1 transactions totaling -$5.00",
+    "Technology Services: 3 transactions totaling -$20.00",
+    "Auto & Transport: 2 transactions totaling -$944.80",
+    "Auto Fuel: 1 transactions totaling -$4.77",
+    "Auto Services Income: 1 transactions totaling +$25.00",
+    "Fast Food: 134 transactions totaling -$810.73",
+    "Gas & Convenience: 9 transactions totaling -$93.76",
+    "Gym & Fitness: 6 transactions totaling -$127.58",
+    "Income - Refund: 1 transactions totaling +$16.72",
+    "Medical: 4 transactions totaling +$5212.03",
+    "Phone & Internet: 5 transactions totaling -$392.24",
+    "Software & Services: 8 transactions totaling -$49.48",
+    "Web Services: 1 transactions totaling -$1.16",
+    "Bill Payments: 1 transactions totaling -$472.40",
+    "Convenience Store: 4 transactions totaling -$21.90",
+    "Restaurants: 13 transactions totaling -$84.34",
+    "Transfers: 7 transactions totaling +$684.36",
+    "Vision Care: 1 transactions totaling -$30.34",
+    "Convenience Stores: 8 transactions totaling -$45.82",
+    "Software & Cloud Services: 1 transactions totaling -$10.00",
+    "Books: 15 transactions totaling -$343.17",
+    "Online Payments: 2 transactions totaling -$37.38",
+    "Auto Loan Payment: 1 transactions totaling -$472.40",
+    "Auto Charging: 7 transactions totaling -$61.43",
+    "Income - Rewards/Refunds: 1 transactions totaling +$68.18",
+    "Merchandise/Misc: 40 transactions totaling -$158.46",
+    "Auto Service: 25 transactions totaling -$462.26",
+    "Home Improvement/Maintenance: 1 transactions totaling -$39.88",
+    "Coffee: 3 transactions totaling -$9.50",
+    "Entertainment: 4 transactions totaling -$140.52",
+    "Fast Food (30 transactions): 30 transactions totaling -$217.10",
+    "Convenience Store (1 transaction): 1 transactions totaling -$2.37",
+    "Online Shopping (6 transactions): 6 transactions totaling -$28.17",
+    "Utilities: 1 transactions totaling -$107.94",
+    "Food (Misc) (2 transactions): 2 transactions totaling -$7.08",
+    "Software & Digital Services (2 transactions): 2 transactions totaling -$9.67",
+    "Fees (1 transaction): 1 transactions totaling -$5.00",
+    "Groceries (1 transaction): 1 transactions totaling -$14.03",
+    "General Merchandise (2 transactions): 2 transactions totaling -$47.27",
+    "Gym & Fitness (1 transaction): 1 transactions totaling -$10.81",
+    "Restaurants/Dining (3 transactions): 3 transactions totaling -$12.17",
+    "Rewards/Refunds: 1 transactions totaling +$18.42",
+    "General Merchandise: 2 transactions totaling -$7.98",
+    "Utilities - Phone: 4 transactions totaling -$432.01",
+    "Shopping - Discount: 7 transactions totaling -$30.52",
+    "Shopping - General: 3 transactions totaling -$60.50",
+    "Coffee & Cafes: 1 transactions totaling -$4.75",
+    "Food & Snacks: 3 transactions totaling -$4.90",
+    "Shopping - Online: 1 transactions totaling -$6.29",
+    "Income - Rewards: 1 transactions totaling +$18.25",
+    "Fast Food & Convenience (33 transactions): 33 transactions totaling -$163.67",
+    "Food (2 transactions): 2 transactions totaling -$6.52",
+    "Gas & Fuel (1 transactions): 1 transactions totaling -$36.50",
+    "Groceries (2 transactions): 2 transactions totaling -$45.18",
+    "Gym (2 transactions): 2 transactions totaling -$11.81",
+    "Health & Fitness (1 transactions): 1 transactions totaling -$136.00",
+    "Merchandise/Misc (6 transactions): 6 transactions totaling -$23.82",
+    "Restaurants/Dining (1 transactions): 1 transactions totaling -$6.36",
+    "Shopping (1 transactions): 1 transactions totaling -$21.90",
+    "Transfers (1 transactions): 1 transactions totaling -$100.00"
+  ],
+  "full_categorization": {
+    "category_totals": {
+      "Fast Food & Convenience": {
+        "count": 571,
+        "total": -3049.590000000003,
+        "income": 5.61,
+        "expenses": 3055.200000000003
+      },
+      "Fast Food": {
+        "count": 65,
+        "total": -503.36,
+        "income": 0.0,
+        "expenses": 503.36
+      },
+      "Subscriptions": {
+        "count": 18,
+        "total": -175.64000000000001,
+        "income": 10.74,
+        "expenses": 186.38000000000002
+      },
+      "Medical": {
+        "count": 4,
+        "total": 5212.030000000001,
+        "income": 5264.530000000001,
+        "expenses": 52.5
+      },
+      "Software & Services": {
+        "count": 6,
+        "total": -53.190000000000005,
+        "income": 0.0,
+        "expenses": 53.190000000000005
+      },
+      "Vision Care": {
+        "count": 1,
+        "total": -30.34,
+        "income": 0.0,
+        "expenses": 30.34
+      },
+      "Software & Cloud Services": {
+        "count": 5,
+        "total": -27.64,
+        "income": 0.0,
+        "expenses": 27.64
+      },
+      "Shopping": {
+        "count": 38,
+        "total": -654.69,
+        "income": 14.46,
+        "expenses": 669.1500000000001
+      },
+      "Phone, Internet & Cable": {
+        "count": 22,
+        "total": -2250.76,
+        "income": 60.0,
+        "expenses": 2310.76
+      },
+      "Groceries": {
+        "count": 92,
+        "total": -1332.35,
+        "income": 0.0,
+        "expenses": 1332.35
+      },
+      "Transfers": {
+        "count": 13,
+        "total": 358.36,
+        "income": 935.36,
+        "expenses": 577.0
+      },
+      "Auto Payments": {
+        "count": 3,
+        "total": -1417.1999999999998,
+        "income": 0.0,
+        "expenses": 1417.1999999999998
+      },
+      "Clothing": {
+        "count": 3,
+        "total": -101.94,
+        "income": 0.0,
+        "expenses": 101.94
+      },
+      "Gas & Fuel": {
+        "count": 66,
+        "total": -874.84,
+        "income": 0.0,
+        "expenses": 874.84
+      },
+      "Restaurants": {
+        "count": 3,
+        "total": -44.67999999999999,
+        "income": 0.0,
+        "expenses": 44.67999999999999
+      },
+      "Food": {
+        "count": 44,
+        "total": -139.66,
+        "income": 0.0,
+        "expenses": 139.66
+      },
+      "Auto Services Income": {
+        "count": 1,
+        "total": 25.0,
+        "income": 25.0,
+        "expenses": 0.0
+      },
+      "Auto Charging": {
+        "count": 33,
+        "total": -263.41,
+        "income": 0.0,
+        "expenses": 263.41
+      },
+      "Web Services": {
+        "count": 2,
+        "total": -2.33,
+        "income": 0.0,
+        "expenses": 2.33
+      },
+      "Gym": {
+        "count": 22,
+        "total": -290.73,
+        "income": 0.0,
+        "expenses": 290.73
+      },
+      "Income - Refund": {
+        "count": 1,
+        "total": 16.72,
+        "income": 16.72,
+        "expenses": 0.0
+      },
+      "Electronics & Software": {
+        "count": 14,
+        "total": -132.14999999999998,
+        "income": 0.0,
+        "expenses": 132.14999999999998
+      },
+      "Restaurants/Dining": {
+        "count": 106,
+        "total": -730.9500000000003,
+        "income": 0.0,
+        "expenses": 730.9500000000003
+      },
+      "Online Payment": {
+        "count": 2,
+        "total": -43.83,
+        "income": 0.0,
+        "expenses": 43.83
+      },
+      "Auto Payment": {
+        "count": 9,
+        "total": -4251.6,
+        "income": 0.0,
+        "expenses": 4251.6
+      },
+      "Parking": {
+        "count": 14,
+        "total": -31.300000000000004,
+        "income": 0.0,
+        "expenses": 31.300000000000004
+      },
+      "Technology Services": {
+        "count": 1,
+        "total": -5.0,
+        "income": 0.0,
+        "expenses": 5.0
+      },
+      "Pharmacy": {
+        "count": 3,
+        "total": -108.52,
+        "income": 0.0,
+        "expenses": 108.52
+      },
+      "Fees & Charges": {
+        "count": 6,
+        "total": -45.0,
+        "income": 37.5,
+        "expenses": 82.5
+      },
+      "Books": {
+        "count": 15,
+        "total": -343.17,
+        "income": 7.87,
+        "expenses": 351.04
+      },
+      "Online Payments": {
+        "count": 13,
+        "total": -243.58999999999997,
+        "income": 0.0,
+        "expenses": 243.58999999999997
+      },
+      "Rewards/Refunds": {
+        "count": 3,
+        "total": 104.85000000000001,
+        "income": 104.85000000000001,
+        "expenses": 0.0
+      },
+      "Merchandise/Misc": {
+        "count": 59,
+        "total": -234.88999999999993,
+        "income": 0.0,
+        "expenses": 234.88999999999993
+      },
+      "Home Improvement/Maintenance": {
+        "count": 1,
+        "total": -39.88,
+        "income": 0.0,
+        "expenses": 39.88
+      },
+      "Entertainment": {
+        "count": 3,
+        "total": -130.99,
+        "income": 0.0,
+        "expenses": 130.99
+      },
+      "Fees": {
+        "count": 1,
+        "total": -5.0,
+        "income": 0.0,
+        "expenses": 5.0
+      },
+      "Software & Digital Services": {
+        "count": 2,
+        "total": -10.78,
+        "income": 0.0,
+        "expenses": 10.78
+      },
+      "Auto Service": {
+        "count": 1,
+        "total": -275.0,
+        "income": 0.0,
+        "expenses": 275.0
+      },
+      "Coffee & Cafes": {
+        "count": 1,
+        "total": -4.75,
+        "income": 0.0,
+        "expenses": 4.75
+      },
+      "Shopping - Online": {
+        "count": 3,
+        "total": -46.21,
+        "income": 0.0,
+        "expenses": 46.21
+      },
+      "Shopping - Discount": {
+        "count": 1,
+        "total": -7.96,
+        "income": 0.0,
+        "expenses": 7.96
+      },
+      "Health & Fitness": {
+        "count": 1,
+        "total": -136.0,
+        "income": 0.0,
+        "expenses": 136.0
+      }
+    },
+    "income_categories": {
+      "Auto Services Income": {
+        "count": 1,
+        "total": 25.0,
+        "income": 25.0,
+        "expenses": 0.0
+      },
+      "Income - Refund": {
+        "count": 1,
+        "total": 16.72,
+        "income": 16.72,
+        "expenses": 0.0
+      },
+      "Rewards/Refunds": {
+        "count": 3,
+        "total": 104.85000000000001,
+        "income": 104.85000000000001,
+        "expenses": 0.0
+      }
+    },
+    "expense_categories": {
+      "Fast Food": {
+        "count": 65,
+        "total": -503.36,
+        "income": 0.0,
+        "expenses": 503.36
+      },
+      "Software & Services": {
+        "count": 6,
+        "total": -53.190000000000005,
+        "income": 0.0,
+        "expenses": 53.190000000000005
+      },
+      "Vision Care": {
+        "count": 1,
+        "total": -30.34,
+        "income": 0.0,
+        "expenses": 30.34
+      },
+      "Software & Cloud Services": {
+        "count": 5,
+        "total": -27.64,
+        "income": 0.0,
+        "expenses": 27.64
+      },
+      "Groceries": {
+        "count": 92,
+        "total": -1332.35,
+        "income": 0.0,
+        "expenses": 1332.35
+      },
+      "Auto Payments": {
+        "count": 3,
+        "total": -1417.1999999999998,
+        "income": 0.0,
+        "expenses": 1417.1999999999998
+      },
+      "Clothing": {
+        "count": 3,
+        "total": -101.94,
+        "income": 0.0,
+        "expenses": 101.94
+      },
+      "Gas & Fuel": {
+        "count": 66,
+        "total": -874.84,
+        "income": 0.0,
+        "expenses": 874.84
+      },
+      "Restaurants": {
+        "count": 3,
+        "total": -44.67999999999999,
+        "income": 0.0,
+        "expenses": 44.67999999999999
+      },
+      "Food": {
+        "count": 44,
+        "total": -139.66,
+        "income": 0.0,
+        "expenses": 139.66
+      },
+      "Auto Charging": {
+        "count": 33,
+        "total": -263.41,
+        "income": 0.0,
+        "expenses": 263.41
+      },
+      "Web Services": {
+        "count": 2,
+        "total": -2.33,
+        "income": 0.0,
+        "expenses": 2.33
+      },
+      "Gym": {
+        "count": 22,
+        "total": -290.73,
+        "income": 0.0,
+        "expenses": 290.73
+      },
+      "Electronics & Software": {
+        "count": 14,
+        "total": -132.14999999999998,
+        "income": 0.0,
+        "expenses": 132.14999999999998
+      },
+      "Restaurants/Dining": {
+        "count": 106,
+        "total": -730.9500000000003,
+        "income": 0.0,
+        "expenses": 730.9500000000003
+      },
+      "Online Payment": {
+        "count": 2,
+        "total": -43.83,
+        "income": 0.0,
+        "expenses": 43.83
+      },
+      "Auto Payment": {
+        "count": 9,
+        "total": -4251.6,
+        "income": 0.0,
+        "expenses": 4251.6
+      },
+      "Parking": {
+        "count": 14,
+        "total": -31.300000000000004,
+        "income": 0.0,
+        "expenses": 31.300000000000004
+      },
+      "Technology Services": {
+        "count": 1,
+        "total": -5.0,
+        "income": 0.0,
+        "expenses": 5.0
+      },
+      "Pharmacy": {
+        "count": 3,
+        "total": -108.52,
+        "income": 0.0,
+        "expenses": 108.52
+      },
+      "Online Payments": {
+        "count": 13,
+        "total": -243.58999999999997,
+        "income": 0.0,
+        "expenses": 243.58999999999997
+      },
+      "Merchandise/Misc": {
+        "count": 59,
+        "total": -234.88999999999993,
+        "income": 0.0,
+        "expenses": 234.88999999999993
+      },
+      "Home Improvement/Maintenance": {
+        "count": 1,
+        "total": -39.88,
+        "income": 0.0,
+        "expenses": 39.88
+      },
+      "Entertainment": {
+        "count": 3,
+        "total": -130.99,
+        "income": 0.0,
+        "expenses": 130.99
+      },
+      "Fees": {
+        "count": 1,
+        "total": -5.0,
+        "income": 0.0,
+        "expenses": 5.0
+      },
+      "Software & Digital Services": {
+        "count": 2,
+        "total": -10.78,
+        "income": 0.0,
+        "expenses": 10.78
+      },
+      "Auto Service": {
+        "count": 1,
+        "total": -275.0,
+        "income": 0.0,
+        "expenses": 275.0
+      },
+      "Coffee & Cafes": {
+        "count": 1,
+        "total": -4.75,
+        "income": 0.0,
+        "expenses": 4.75
+      },
+      "Shopping - Online": {
+        "count": 3,
+        "total": -46.21,
+        "income": 0.0,
+        "expenses": 46.21
+      },
+      "Shopping - Discount": {
+        "count": 1,
+        "total": -7.96,
+        "income": 0.0,
+        "expenses": 7.96
+      },
+      "Health & Fitness": {
+        "count": 1,
+        "total": -136.0,
+        "income": 0.0,
+        "expenses": 136.0
+      }
+    },
+    "transfer_categories": {
+      "Fast Food & Convenience": {
+        "count": 571,
+        "total": -3049.590000000003,
+        "income": 5.61,
+        "expenses": 3055.200000000003
+      },
+      "Subscriptions": {
+        "count": 18,
+        "total": -175.64000000000001,
+        "income": 10.74,
+        "expenses": 186.38000000000002
+      },
+      "Medical": {
+        "count": 4,
+        "total": 5212.030000000001,
+        "income": 5264.530000000001,
+        "expenses": 52.5
+      },
+      "Shopping": {
+        "count": 38,
+        "total": -654.69,
+        "income": 14.46,
+        "expenses": 669.1500000000001
+      },
+      "Phone, Internet & Cable": {
+        "count": 22,
+        "total": -2250.76,
+        "income": 60.0,
+        "expenses": 2310.76
+      },
+      "Transfers": {
+        "count": 13,
+        "total": 358.36,
+        "income": 935.36,
+        "expenses": 577.0
+      },
+      "Fees & Charges": {
+        "count": 6,
+        "total": -45.0,
+        "income": 37.5,
+        "expenses": 82.5
+      },
+      "Books": {
+        "count": 15,
+        "total": -343.17,
+        "income": 7.87,
+        "expenses": 351.04
+      }
+    },
+    "uncategorized": [],
+    "summary": {
+      "total_income": 146.57,
+      "total_expenses": 11520.07,
+      "net_amount": -11373.5,
+      "transfer_volume": 12089.240000000003,
+      "total_transactions": 1272,
+      "categorized_count": 1272,
+      "uncategorized_count": 0
+    }
+  }
+}
